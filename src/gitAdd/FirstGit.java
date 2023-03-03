@@ -9,6 +9,10 @@ public class FirstGit {
 		String lastName = "Kate";
 		
 		System.out.println(firstName + " " +lastName);
+		
+		String middleName = "R";
+		
+		System.out.println(firstName + " " + middleName + " " + lastName);		
 
 	}
 
