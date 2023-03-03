@@ -12,7 +12,9 @@ public class FirstGit {
 		
 		String middleName = "R";
 		
-		System.out.println(firstName + " " + middleName + " " + lastName);		
+		System.out.println(firstName + " " + middleName + " " + lastName);	
+		
+		int employeeId = 1234;
 
 	}
 
